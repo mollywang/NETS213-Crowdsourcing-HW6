@@ -230,10 +230,6 @@ Rather than using real-time iteration, we inserted the results from our parallel
 	 -  Who we are: We are five 20 year old boys with the biggest number of teenage fans in South East Asia. We’ve signed over 1,000,000 autographs for pretty girls. We love dancing and are so grateful for our fans!
 
 ###Task Format
-####Iterative:
-
-####Parallel:
-
 ####Rating Task:
 **Instructions:**
 Read the information below on the music group and rate the names that other Turkers have come up with. 
