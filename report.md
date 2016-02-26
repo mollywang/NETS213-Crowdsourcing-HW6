@@ -64,25 +64,21 @@ We also separated our tasks into *creation tasks* and *decision tasks.*
 
 Choosing to have contributors brainstorm band names was a slight deviation from the original experiment, but the nature of the task is very similar. Furthermore, we thought it would be interesting to see the variety of band names that we could get. 
 
-![Name the Music Group](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/namethemusicgroup.png)
-This is an example of what an *iterative creation task* looks like to a contributor. They would see 10 different text boxes in which they had to input their results.
+The creation task was the creation of the band names, and the decision task was the ratings of the band names that were collected in the iterative and parallel processes. Our iterative processing setup deviated from the original experiment for the sake of simplicity -- instead of having a list of names suggested in all past iterations, we selected ten random names created in the parallel process. For the decision task, participants rated the previously generated names on a scale from 1 to 10.
 
-The creation task was the creation of the band names, and the decision task was the ratings of the band names that were collected in the iterative and parallel processes. Our iterative processing setup deviated from the original experiment for the sake of simplicity -- instead of having a list of names suggested in all past iterations, we selected ten random names created in the parallel process. For the decision task, participants rated the previously generated names on a scale from 1 to 10. 
+![Iterative Task](https://raw.githubusercontent.com/mollywang/NETS213-Crowdsourcing-HW6/master/iterative_screenshot.png)
+This is an example of what an iterative *name generation task* looks like to a contributor.
+![Parallel Task](https://raw.githubusercontent.com/mollywang/NETS213-Crowdsourcing-HW6/master/parallel_screenshot.png)
+This is an example of what an parallel *name generation task* looks like to a contributor.
 
 ##5. Platform and Task Design Details
 We used Crowdflower and only allowed Level 3 workers to participate in our creation tasks and only allowed Level 2 workers to participate in our decision tasks. Each contributor was paid \\$0.05 to generate 5 unique names for a music group. After these were collected, voters were paid \$0.01 to rank 10 the previously generated names. We also incentivized participants to put effort in the name generation by offering a bonus of \$2 if one of their names was ranked the highest. The name generation task warned that if workers used existing band names, they would not receive payment. The voting task included information on how to determine “how good” a given name was. Scores of 1 indicated that the name was incoherent, unrelated, or unoriginal. Scores of 10 indicated exceptional names that were original, creative and related to the description of the band. Below this disclaimer we included a description of the group and then had 5 voting fields that linked to unique names. Both name generators and voters could not leave any field blank. Any given generated name was voted on 10 times and each participant was allowed to vote a maximum of 6 times (60 individual votes) and generate names 3 times (15 individual names). 
-
 ![Rate the Music Group](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratethemusicgroup.png)
 ![Rate the Music Group 2](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratemusicgroup2.png)
 This is an example of what a *decision task* looks like to a contributor.
 
-
 ##6. Analysis of Results and Comparison to the Findings of the Original Paper
 ###6.1 *Results and Discussion*
-
-![Iterative Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/iterative-new.png)
-![Parallel Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/parallel-new.png)
-
 Before our experiment we believed that our results would align closely with the original experiment. For example, we thought that iterative tasks would be rated higher on average but iterative and parallel tasks would closely produce the same number of highest rated names. It also occurred to us that our deviance in the creative task might make the data harder to analyze and rank. We also had a feeling that, like the company name experiment, names that contained words from the given description would receive higher ranks
 In general, the average rating of the names created by the parallel tasks was 5.2996/10, while the iterative process gave an average of 5.3544/10. This is consistent with what the paper concluded, where the average of the iterative was higher than the average of the parallel process.
 
