@@ -189,6 +189,68 @@ As shown in the analysis of results section, the iterative process resulted in a
 ###6.2 *Potential Errors*
 Rather than using real-time iteration, we inserted the results from our parallel tasks in the iterative tasks. This may have skewed our data because we did not allow for the organic flow that a true iterative task incorporates. We also did not take any measures in preventing contributors from using the same name multiple times. One worker wrote “K-Pop” for every single description. As with the original experiment, our contributors are crowdworkers and therefore not that diverse.
 
+#Apendix
+##Generation Task Format
+ * Music genre
+ * Origin/Location
+ * Members (categorized by instruments)
+ * Short description
+
+###Music Group Descriptions:
+
+ - Christian Rock
+	 * Type of music we make: Christian Rock
+	 * We are from: Montgomery, Alabama
+	 * Instruments we play: classical guitar and flute
+	 * Who we are: We create hip and relatable music that shows our faith and love in our Lord Jesus Christ. We sing in churches around the United States – new city every Sunday!
+	 
+ - Hardcore Techno
+	 * Type of music we make:Hardcore techno
+	 * We are from: the future
+	 * Instruments we play: synthesizer and our voices
+	 * Who we are: We are four robots from the future that felt that we needed to bring some musical emotion to 2016’s boring repetitive music. We are strong believers that robots can make better music than humans!
+
+
+ - Harvard University
+	 - Type of music we make: Mix of classical music and hip hop
+	 -  We are from: Harvard University 
+	 - Instruments we play: A Capella
+	 - Who we are: We hate instruments. We love our voices. Our purpose is to show the world our struggle as students at an Ivy League school and how no one suffers as much as we do.
+ - Screaming emo
+	 - Type of music we make: Screamo (screaming emo)
+	 -  We are from: West Philadelphia
+	 -  Instruments we play: Our raspy voices, sharp knives and
+	   distorted guitars
+	 -  Who we are: We’re a group of angry black boys from
+	   the hood. We like ripped jeans, suffering and smoking cigarettes.  Fuck the status quo.
+ - Pop Music
+	 - Type of music: Pop music
+	 -  We are from: Seoul, South Korea Instruments
+	 - We play: Autotune
+	 -  Who we are: We are five 20 year old boys with the biggest number of teenage fans in South East Asia. We’ve signed over 1,000,000 autographs for pretty girls. We love dancing and are so grateful for our fans!
+
+###Task Format
+####Iterative:
+
+####Parallel:
+
+####Rating Task:
+**Instructions:**
+Read the information below on the music group and rate the names that other Turkers have come up with. 
+It’s important you consider the following:
+
+ - A rating of 0: 
+	 - answer is either in another language and not
+   understandable, 
+	 - OR the name is not original (there exists another
+   music group with that name)
+	 -  OR the name is not understandable 
+ - A rating of 10: 
+	 - answer is original and creative 
+	 - AND relatable to the description of the band
+
+Please take your time on evaluating the names. If your rating differs from those of others by a large amount, you will NOT be rewarded. You will NOT be rewarded if you try to submit too fast.
+
 
 
 
