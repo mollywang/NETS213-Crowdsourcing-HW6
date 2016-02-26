@@ -38,7 +38,7 @@ For our experiment, we decided to duplicate the second experiment, which involve
 
 We also separated our tasks into *creation tasks* and *decision tasks.* 
 
-**Example Creation Task**
+**Example Creation Task - Iteration 1**
 
 **Type of music we make**: Hardcore techno 
 
@@ -47,6 +47,18 @@ We also separated our tasks into *creation tasks* and *decision tasks.*
 **Instruments we play**: synthesizer and our voices 
 
 **Who we are**: We are four robots from the future that felt that we needed to bring some musical emotion to 2016’s boring repetitive music. We are strong believers that robots can make better music than humans! 
+
+
+**Example Creation Task - Iteration 2**
+
+**Type of music**: Pop music
+
+**We are from**: Seoul, South Korea
+
+**Instruments we play**: Autotune
+
+**Who we are**: We are five 20 year old boys with the biggest number of teenage fans in South East Asia. We’ve signed over 1,000,000 autographs for pretty girls. We love dancing and are so grateful for our fans!
+
 
 Choosing to have contributors brainstorm band names was a slight deviation from the original experiment, but the nature of the task is very similar. Furthermore, we thought it would be interesting to see the variety of band names that we could get. 
 
@@ -69,5 +81,11 @@ This is an example of what an *iterative decision task* looks like to a contribu
 ![Parallel Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/parallel-new.png)
 
 ####6.1.1 *Getting the Best Names*
+Finding the ‘best’ band name is not a trivial or objective task. Generating unique names requires some level of creativity, and it is extremely difficult to come to a unanimous decision on something that is the most creative. Instead of brainstorming company names, we had participants generate music group names. While company names are semi-objective, proper and socially acceptable; band names are not. Although some crowd workers ignored our instructions and used existing names, googled names or copy and pasted from the descriptions, many were creative and took liberty in the process. More so than the company names, there were some cool, funny and abstract band names that required unique thinking to generate. The results allowed us to see real people behind the data. Allowing this amount of freedom also comes with shortcomings. Some contributors used inappropriate or offensive words such as *“Rape Yelp”* or *“Dick of All”*, which also was an issue in the company name experiment. We also noted that there were clever names that received low votes. For the robot band, someone suggested the name *“1101”*, which many most likely saw as gibberish, but was indeed clever because it looks like binary code. These types of abstract connections make sentiment analysis on subjective data like this much more difficult than on something like company names. Voters also seemed to vote higher on more-positive names like *“Heaven’s Angels”* and lower on negative names like *“Dick of All”*. It seems as if they were searching for objective quantifiers to classify something subjective. Even if we can’t rely fully on crowdworkers to rank the results, crowdsourcing creative problem-solving may still be compelling. It might make more sense for the poster of the task to pick the best in the end because their idea of ‘best’ ultimately matters the most.
+
+###6.2 *Potential Errors*
+Rather than using real-time iteration, we inserted the results from our parallel tasks in the iterative tasks. This may have skewed our data because we did not allow for the organic flow that a true iterative task incorporates. We also did not take any measures in preventing contributors from using the same name multiple times. One worker wrote “K-Pop” for every single description. As with the original experiment, our contributors are crowdworkers and therefore not that diverse.
+
+
 
 
