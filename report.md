@@ -36,18 +36,37 @@ The specific experiment we chose to replicate was the brainstorming task. We wer
 
 For our experiment, we decided to duplicate the second experiment, which involves brainstorming company names. However, we took some creative liberty in the replication of this experiment and instead of brainstorming company names, we changed the task to ask users to brainstorm potential band names based on a description of the band members, the type of music they produce, and their hometown.
 
-*Example* (copy paste screenshot of task on CrowdFlower here) 
-**Type of music we make**: Hardcore techno
-**We are from**: the future
-Instruments we play: synthesizer and our voices
-Who we are: We are four robots from the future that felt that we needed to bring some musical emotion to 2016’s boring repetitive music. We are strong believers that robots can make better music than humans!
+We also separated our tasks into *creation tasks* and *decision tasks.* 
+
+**Example Creation Task**
+
+**Type of music we make**: Hardcore techno 
+
+**We are from**: the future 
+
+**Instruments we play**: synthesizer and our voices 
+
+**Who we are**: We are four robots from the future that felt that we needed to bring some musical emotion to 2016’s boring repetitive music. We are strong believers that robots can make better music than humans! 
 
 Choosing to have contributors brainstorm band names was a slight deviation from the original experiment, but the nature of the task is very similar. Furthermore, we thought it would be interesting to see the variety of band names that we could get. 
 
+![Name the Music Group](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/namethemusicgroup.png)
+This is an example of what an *iterative creation task* looks like to a contributor. They would see 10 different text boxes in which they had to input their results.
+
+
 ##5. Platform and Task Design Details
+We used Crowdflower and only allowed Level 3 workers to participate in our tasks. Each contributor was paid $0.05 to generate 5 unique names for a music group. After these were collected, voters were paid $0.01 to rank 10 the previously generated names on a scale from 1 to 10. We also incentivized participants to put effort in the name generation by offering a bonus of $2 if one of their names was ranked the highest. The name generation task warned that if workers used existing band names, they would not receive payment. The voting task included information on how to determine “how good” a given name was. Scores of 1 indicated that the name was incoherent, unrelated, or unoriginal. Scores of 10 indicated exceptional names that were original, creative and related to the description of the band. Below this disclaimer we included a description of the group and then had 5 voting fields that linked to unique names. Both name generators and voters could not leave any field blank. Any given generated name was voted on 10 times and each participant was allowed to vote a maximum of 6 times (60 individual votes) and generate names 3 times (15 individual names). 
+
+![Rate the Music Group](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratethemusicgroup.png)
+![Rate the Music Group 2](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratemusicgroup2.png)
+This is an example of what an *iterative decision task* looks like to a contributor.
+
 
 ##6. Analysis of Results and Comparison to the Findings of the Original Paper
 ###6.1 *Results and Discussion*
+
+![Iterative Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/iterative-new.png)
+![Parallel Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/parallel-new.png)
 
 ####6.1.1 *Getting the Best Names*
 
