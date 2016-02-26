@@ -84,8 +84,148 @@ This is an example of what a *decision task* looks like to a contributor.
 ![Iterative Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/iterative-new.png)
 ![Parallel Results](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/parallel-new.png)
 
-####6.1.1 *Getting the Best Names*
-Finding the ‘best’ band name is not a trivial or objective task. Generating unique names requires some level of creativity, and it is extremely difficult to come to a unanimous decision on something that is the most creative. Instead of brainstorming company names, we had participants generate music group names. While company names are semi-objective, proper and socially acceptable; band names are not. Although some crowd workers ignored our instructions and used existing names, googled names or copy and pasted from the descriptions, many were creative and took liberty in the process. More so than the company names, there were some cool, funny and abstract band names that required unique thinking to generate. The results allowed us to see real people behind the data. Allowing this amount of freedom also comes with shortcomings. Some contributors used inappropriate or offensive words such as *“Rape Yelp”* or *“Dick of All”*, which also was an issue in the company name experiment. We also noted that there were clever names that received low votes. For the robot band, someone suggested the name *“1101”*, which many most likely saw as gibberish, but was indeed clever because it looks like binary code. These types of abstract connections make sentiment analysis on subjective data like this much more difficult than on something like company names. Voters also seemed to vote higher on more-positive names like *“Heaven’s Angels”* and lower on negative names like *“Dick of All”*. It seems as if they were searching for objective quantifiers to classify something subjective. Even if we can’t rely fully on crowdworkers to rank the results, crowdsourcing creative problem-solving may still be compelling. It might make more sense for the poster of the task to pick the best in the end because their idea of ‘best’ ultimately matters the most.
+Before our experiment we believed that our results would align closely with the original experiment. For example, we thought that iterative tasks would be rated higher on average but iterative and parallel tasks would closely produce the same number of highest rated names. It also occurred to us that our deviance in the creative task might make the data harder to analyze and rank. We also had a feeling that, like the company name experiment, names that contained words from the given description would receive higher ranks
+In general, the average rating of the names created by the parallel tasks was 5.2996/10, while the iterative process gave an average of 5.3544/10. This is consistent with what the paper concluded, where the average of the iterative was higher than the average of the parallel process.
+
+The following analysis will detail the individual results of each iteration as well as the aggregate results of the entire experiment. 
+**Christian Rock**
+
+**Average rating for names generated iteratively:** 5.294
+
+**Average rating for names generated in parallel:** 5.250
+
+**Highest rated:** Heavens Angels
+
+**Average rating:** 8.3
+
+**Type:** Parallel
+
+**Lowest rated:** Pusseywet
+
+**Average rating:** 2.3
+
+**Type:** Iterative
+
+**Top 25%:** 
+
+- Average rating: 6.547
+
+- 45% Parallel
+
+- 55% Iterative
+
+
+**Korean Pop**
+
+**Average rating for names generated iteratively:** 4.905
+
+**Average rating for names generated in parallel:** 4.769
+
+**Highest rated:** DWUS (Dance With Us)
+
+**Average rating:** 7.7
+
+**Type:** Iterative
+
+**Lowest rated:** 5 Teen
+
+**Average rating:** 2.6
+
+**Type:** Parallel
+
+**Top 25%:**
+
+- 63% were iterative
+- 
+- 37% were parallel
+
+Like the company naming experiment, grammatically awkward names were rated lower. In this case, “5 Teen” was the lowest rated name for this group.
+
+**Black Screamo**
+
+**Average rating for names generated iteratively:** 5.003
+
+**Average rating for names generated in parallel:** 5.096
+
+**Highest rated:** “Black Smoke”
+
+**Rating:** 7.7
+
+**Type:** Parallel
+
+**Lowest rated:** “BBCC”
+
+**Rating:** 1.8
+
+**Type:** Iterative
+
+**Top 25%:**
+
+- Average rating 6.308
+
+- Parallel: 45%
+
+- Iterative: 55%
+
+
+	It is interesting that the highest ranked name was “Black Smoke”, which contains two words that we included in the description. We described this group as “black boys from the hood” who enjoy “smoking cigarettes”. These words together  no longer associate with their original meanings in the description, but something much more abstract and mysterious. “BBCC” could have been an interesting name, but as a generic acronym, voters are left clueless on its meaning. It’s worth noting that the top rated word for the Korean group was also an acronym, “DWUS (Dance With Us)”, but it also includes a description so that voters know what it stands for.
+Harvard A Cappella group
+
+**Average rating for names generated iteratively:** 6.619
+
+**Average rating for names generated in parallel:** 6.578
+
+**Highest rated:** Reverberation
+
+**Average rating:** 7.7
+
+**Type:** Parallel
+
+**Lowest rated:** Not Money	
+
+**Average rating:** 2.6
+
+**Type:** Iterative
+
+**Top 25%: **
+
+- Average rating: 6.598
+
+- 43% Parallel
+
+- 57% Iterative
+
+
+**Robot Techno**
+
+**Average rating for names generated iteratively:** 4.951
+
+**Average rating for names generated in parallel:** 4.805
+
+**Highest rated:** “Invaders”
+
+**Average rating (out of 10):** 7.3
+
+**Type:** Iterative
+
+**Lowest rated: ** “Dick of All”
+
+**Average score (out of 10):** 1.6
+
+**Type:** Iterative
+
+**Top 25%:**
+
+- 34% Parallel
+
+- 66% Iterative
+
+It’s interesting to note that the individually highest and lowest rated names were both generated iteratively. Interpreting these names subjectively ourselves, we found “Invaders” to be a generic and appropriate name for a Robot Techno band whereas “Dick of All” may have taken too much creative liberty. 
+
+It is interesting to note that the highest rated name in the parallel tasks was from Iteration 1 “Christian Rock”, and it was “Heaven’s Angels” with a value of 8.3/10. On the other hand, the highest rated name from the iterative process was “Rock and Heaven” from the Iteration 1 “Christian Rock” with an average of 8.1/10. This is consistent with the results from the study, which showed that the average rated name overall was from the parallel tasks.
+
+As shown in the analysis of results section, the iterative process resulted in a higher average overall, with a value of 5.2996/10. This is probably due to the fact that the contributor was able to see the names that other workers had given, which gave them an idea of what names looked like. On the other hand, parallel workers were forced to think independently which made their contributions less consistent. This lack of consistency allowed for more extremely negative and positive rankings. Both the highest and lowest rated names were from parallel tasks. Finding the ‘best’ band name is not a trivial or objective task. Generating unique names requires some level of creativity, and it is extremely difficult to come to a unanimous decision on something that is the most creative. Instead of brainstorming company names, we had participants generate music group names. While company names are semi-objective, proper and socially acceptable; band names are not. Although some crowd workers ignored our instructions and used existing names, googled names or copy and pasted from the descriptions, many were creative and took liberty in the process. More so than the company names, there were some cool, funny and abstract band names that required unique thinking to generate. The results allowed us to see real people behind the data. Allowing this amount of freedom also comes with shortcomings. Some contributors used inappropriate or offensive words such as “Rape Yelp” or “Dick of All”, which also was an issue in the company name experiment. We also noted that there were clever names that received low votes. For the robot band, someone suggested the name “1101”, which many most likely saw as gibberish, but was indeed clever because it looks like binary code. These types of abstract connections make sentiment analysis on subjective data like this much more difficult than on something like company names. Voters also seemed to vote higher on more-positive names like “Heaven’s Angels” and lower on negative names like “Dick of All”. It seems as if they were searching for objective quantifiers to classify something subjective. Even if we can’t rely fully on crowdworkers to rank the results, crowdsourcing creative problem-solving may still be compelling. It might make more sense for the poster of the task to pick the best in the end because their idea of ‘best’ ultimately matters the most.
+
 
 ###6.2 *Potential Errors*
 Rather than using real-time iteration, we inserted the results from our parallel tasks in the iterative tasks. This may have skewed our data because we did not allow for the organic flow that a true iterative task incorporates. We also did not take any measures in preventing contributors from using the same name multiple times. One worker wrote “K-Pop” for every single description. As with the original experiment, our contributors are crowdworkers and therefore not that diverse.
