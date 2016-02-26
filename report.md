@@ -31,16 +31,24 @@ Averaging over the 12 passages, the researchers did not find a statistically sig
 
 ##3. Why We Chose the Brainstorming Experiment in *Exploring Iterative and Parallel Human Computation Processes*
 The specific experiment we chose to replicate was the brainstorming task. We were interested in replicating the research findings because the paper indicated that brainstorming with iterative processing had higher average quality, while parallel processing had the best results. This conflict of whether iterative or parallel processing is better for brainstorming was an area we wanted to examine in greater depth. Moreover, we thought using brainstorming as our experiment would be interesting in understanding how researchers can quantify creativity. 
-A description of your experimental setup, along with an explanation of any deviations that you made from the original design
+
+##4. Experimental Setup
+
 For our experiment, we decided to duplicate the second experiment, which involves brainstorming company names. However, we took some creative liberty in the replication of this experiment and instead of brainstorming company names, we changed the task to ask users to brainstorm potential band names based on a description of the band members, the type of music they produce, and their hometown.
 
-Example (copy paste screenshot of task on CrowdFlower here) 
-Type of music we make: Hardcore techno
-We are from: the future
+*Example* (copy paste screenshot of task on CrowdFlower here) 
+**Type of music we make**: Hardcore techno
+**We are from**: the future
 Instruments we play: synthesizer and our voices
 Who we are: We are four robots from the future that felt that we needed to bring some musical emotion to 2016’s boring repetitive music. We are strong believers that robots can make better music than humans!
-Choosing to have contributors brainstorm band names was a slight deviation from the original experiment, but the nature of the task is very similar. Furthermore, we thought it would be interesting to see the variety of band names that we could get. 
-A description of what crowdsourcing platform you used, a description of the selection criteria you used for workers, how much you paid, and how you decided to reject workers (if applicable). You should also give a pointer to your task design, which can be in a separate document. (Everyone) 
 
-##4. Analysis of Results and Comparison to the Findings of the Original Paper
+Choosing to have contributors brainstorm band names was a slight deviation from the original experiment, but the nature of the task is very similar. Furthermore, we thought it would be interesting to see the variety of band names that we could get. 
+
+##5. Platform and Task Design Details
+
+##6. Analysis of Results and Comparison to the Findings of the Original Paper
+###6.1 *Results and Discussion*
+
+####6.1.1 *Getting the Best Names*
+
 
