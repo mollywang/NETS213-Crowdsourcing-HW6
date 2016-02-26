@@ -75,7 +75,7 @@ We used Crowdflower and only allowed Level 3 workers to participate in our creat
 
 ![Rate the Music Group](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratethemusicgroup.png)
 ![Rate the Music Group 2](https://github.com/mollywang/NETS213-Crowdsourcing-HW6/blob/master/ratemusicgroup2.png)
-This is an example of what an *iterative decision task* looks like to a contributor.
+This is an example of what a *decision task* looks like to a contributor.
 
 
 ##6. Analysis of Results and Comparison to the Findings of the Original Paper
