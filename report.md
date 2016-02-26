@@ -136,7 +136,7 @@ The following analysis will detail the individual results of each iteration as w
 **Top 25%:**
 
 - 63% were iterative
-- 
+
 - 37% were parallel
 
 Like the company naming experiment, grammatically awkward names were rated lower. In this case, “5 Teen” was the lowest rated name for this group.
